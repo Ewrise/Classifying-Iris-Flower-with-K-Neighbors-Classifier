@@ -1,27 +1,27 @@
-🌸 K-Neighbors Sınıflandırıcı ile Iris Çiçeği Sınıflandırma
+🌸 Iris Flower Classification with K-Neighbors Classifier
 
-Bu proje, K-Neighbors sınıflandırıcı kullanarak Iris çiçeklerini sınıflandırmayı amaçlamaktadır.
+This project aims to classify Iris flowers using the K-Neighbors Classifier.
 
-💮 Proje Genel Bakış
+💮 Project Overview
 
-Proje şu temel adımları takip etmektedir:
+The project follows these fundamental steps:
 
-🛑 1. **Gerekli Kütüphanelerin Eklenmesi:** Projeye temel kütüphanelerin eklenmesi.
+🛑 1. Importing Necessary Libraries: Adding essential libraries to the project.
 
-🛑 2. **Veri Setinin Eklenmesi:** Analiz için veri setinin eklenmesi.
+🛑 2. Importing the Dataset: Incorporating the dataset for analysis.
 
-🛑 3. **Veri Setinin Keşfi:** Veri setinin incelenmesi ve anlaşılması.
+🛑 3. Exploring the Dataset: Investigating and understanding the dataset.
 
-🛑 4. **Makine Öğrenimi İçin Veri Setinin Hazırlanması:** Makine öğrenimi için veri setinin ön işlemesi.
+🛑 4. Preparing the Dataset for Machine Learning: Preprocessing the dataset for machine learning.
 
-🛑 5. **Veri Ön İşleme:** Veri hazırlığı için gerekli adımlar.
+🛑 5. Data Preprocessing: Performing necessary steps for data preparation.
 
-🛑 6. **Modelin Eğitilmesi:** Sınıflandırma modelinin eğitilmesi.
+🛑 6. Training the Model: Training the classification model.
 
-🛑 7. **Model Sonuçlarının Test Edilmesi:** Model performansının değerlendirilmesi.
+🛑 7. Testing the Model Results: Evaluating the model's performance.
 
-🛑 8. **Model Tahmini:** Eğitilmiş modelin tahminlerde bulunması.
+🛑 8. Model Prediction: Making predictions using the trained model.
 
-🪷 Hakkında
+🪷 About
 
-Bu proje, K-Neighbors sınıflandırıcıyı kullanarak Iris çiçeklerini sınıflandırma uygulamasını gösterir. Temel makine öğrenimi ve veri bilimi konseptlerini anlaşılır ve açık bir şekilde gösterir.
+This project demonstrates the classification of Iris flowers using the K-Neighbors Classifier. It showcases fundamental concepts in machine learning and data science in a clear and concise manner.
